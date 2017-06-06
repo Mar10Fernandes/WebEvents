@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mario Fernandes\\Source\\Repos\\WebEvents\\ClassLibrary\\DataEntities.csproj",
-      "projectName": "DataEntities",
-      "projectPath": "C:\\Users\\Mario Fernandes\\Source\\Repos\\WebEvents\\ClassLibrary\\DataEntities.csproj",
-      "outputPath": "C:\\Users\\Mario Fernandes\\Source\\Repos\\WebEvents\\ClassLibrary\\obj\\",
+      "projectUniqueName": "C:\\Users\\Mario Fernandes\\Source\\Repos\\WebEvents\\Repository\\Repository.csproj",
+      "projectName": "Repository",
+      "projectPath": "C:\\Users\\Mario Fernandes\\Source\\Repos\\WebEvents\\Repository\\Repository.csproj",
+      "outputPath": "C:\\Users\\Mario Fernandes\\Source\\Repos\\WebEvents\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

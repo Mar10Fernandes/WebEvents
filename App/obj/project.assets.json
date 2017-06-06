@@ -4186,7 +4186,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
-      "ClassLibrary/1.0.0": {
+      "DataEntities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v1.1",
         "dependencies": {
@@ -10903,17 +10903,17 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
-    "ClassLibrary/1.0.0": {
+    "DataEntities/1.0.0": {
       "type": "project",
-      "path": "../ClassLibrary/ClassLibrary.csproj",
-      "msbuildProject": "../ClassLibrary/ClassLibrary.csproj"
+      "path": "../ClassLibrary/DataEntities.csproj",
+      "msbuildProject": "../ClassLibrary/DataEntities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
       "AngularJS.Core >= 1.6.2",
       "AngularJS.Route >= 1.6.2",
-      "ClassLibrary >= 1.0.0",
+      "DataEntities >= 1.0.0",
       "Microsoft.ApplicationInsights.AspNetCore >= 2.0.0",
       "Microsoft.AspNetCore >= 1.1.1",
       "Microsoft.AspNetCore.Mvc >= 1.1.2",
@@ -10936,9 +10936,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mario Fernandes\\Source\\Repos\\WebEvents\\App\\App.csproj",
-      "projectName": "App",
-      "projectPath": "C:\\Users\\Mario Fernandes\\Source\\Repos\\WebEvents\\App\\App.csproj",
+      "projectUniqueName": "C:\\Users\\Mario Fernandes\\Source\\Repos\\WebEvents\\App\\WebApp.csproj",
+      "projectName": "WebApp",
+      "projectPath": "C:\\Users\\Mario Fernandes\\Source\\Repos\\WebEvents\\App\\WebApp.csproj",
       "outputPath": "C:\\Users\\Mario Fernandes\\Source\\Repos\\WebEvents\\App\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
@@ -10947,8 +10947,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\Mario Fernandes\\Source\\Repos\\WebEvents\\ClassLibrary\\ClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\Mario Fernandes\\Source\\Repos\\WebEvents\\ClassLibrary\\ClassLibrary.csproj"
+            "C:\\Users\\Mario Fernandes\\Source\\Repos\\WebEvents\\ClassLibrary\\DataEntities.csproj": {
+              "projectPath": "C:\\Users\\Mario Fernandes\\Source\\Repos\\WebEvents\\ClassLibrary\\DataEntities.csproj"
             }
           }
         }
