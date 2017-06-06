@@ -1,0 +1,19 @@
+D:\NB22977\Documents\Visual Studio 2017\Projects\BoldNetCore\App\bin\Debug\netcoreapp1.1\App.deps.json
+D:\NB22977\Documents\Visual Studio 2017\Projects\BoldNetCore\App\bin\Debug\netcoreapp1.1\App.runtimeconfig.json
+D:\NB22977\Documents\Visual Studio 2017\Projects\BoldNetCore\App\bin\Debug\netcoreapp1.1\App.runtimeconfig.dev.json
+D:\NB22977\Documents\Visual Studio 2017\Projects\BoldNetCore\App\bin\Debug\netcoreapp1.1\App.dll
+D:\NB22977\Documents\Visual Studio 2017\Projects\BoldNetCore\App\bin\Debug\netcoreapp1.1\App.pdb
+D:\NB22977\Documents\Visual Studio 2017\Projects\BoldNetCore\App\obj\Debug\netcoreapp1.1\App.AssemblyInfo.cs
+D:\NB22977\Documents\Visual Studio 2017\Projects\BoldNetCore\App\obj\Debug\netcoreapp1.1\App.dll
+D:\NB22977\Documents\Visual Studio 2017\Projects\BoldNetCore\App\obj\Debug\netcoreapp1.1\App.pdb
+C:\Users\Mario Fernandes\Documents\Visual Studio 2017\Projects\BoldNetCore\App\bin\Debug\netcoreapp1.1\App.deps.json
+C:\Users\Mario Fernandes\Documents\Visual Studio 2017\Projects\BoldNetCore\App\bin\Debug\netcoreapp1.1\App.runtimeconfig.json
+C:\Users\Mario Fernandes\Documents\Visual Studio 2017\Projects\BoldNetCore\App\bin\Debug\netcoreapp1.1\App.runtimeconfig.dev.json
+C:\Users\Mario Fernandes\Documents\Visual Studio 2017\Projects\BoldNetCore\App\bin\Debug\netcoreapp1.1\App.dll
+C:\Users\Mario Fernandes\Documents\Visual Studio 2017\Projects\BoldNetCore\App\bin\Debug\netcoreapp1.1\App.pdb
+C:\Users\Mario Fernandes\Documents\Visual Studio 2017\Projects\BoldNetCore\App\bin\Debug\netcoreapp1.1\ClassLibrary.dll
+C:\Users\Mario Fernandes\Documents\Visual Studio 2017\Projects\BoldNetCore\App\bin\Debug\netcoreapp1.1\ClassLibrary.pdb
+C:\Users\Mario Fernandes\Documents\Visual Studio 2017\Projects\BoldNetCore\App\obj\Debug\netcoreapp1.1\App.csprojResolveAssemblyReference.cache
+C:\Users\Mario Fernandes\Documents\Visual Studio 2017\Projects\BoldNetCore\App\obj\Debug\netcoreapp1.1\App.AssemblyInfo.cs
+C:\Users\Mario Fernandes\Documents\Visual Studio 2017\Projects\BoldNetCore\App\obj\Debug\netcoreapp1.1\App.dll
+C:\Users\Mario Fernandes\Documents\Visual Studio 2017\Projects\BoldNetCore\App\obj\Debug\netcoreapp1.1\App.pdb

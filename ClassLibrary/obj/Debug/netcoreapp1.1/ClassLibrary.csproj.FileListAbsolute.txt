@@ -1,0 +1,6 @@
+C:\Users\Mario Fernandes\Documents\Visual Studio 2017\Projects\BoldNetCore\ClassLibrary\bin\Debug\netcoreapp1.1\ClassLibrary.deps.json
+C:\Users\Mario Fernandes\Documents\Visual Studio 2017\Projects\BoldNetCore\ClassLibrary\bin\Debug\netcoreapp1.1\ClassLibrary.dll
+C:\Users\Mario Fernandes\Documents\Visual Studio 2017\Projects\BoldNetCore\ClassLibrary\bin\Debug\netcoreapp1.1\ClassLibrary.pdb
+C:\Users\Mario Fernandes\Documents\Visual Studio 2017\Projects\BoldNetCore\ClassLibrary\obj\Debug\netcoreapp1.1\ClassLibrary.AssemblyInfo.cs
+C:\Users\Mario Fernandes\Documents\Visual Studio 2017\Projects\BoldNetCore\ClassLibrary\obj\Debug\netcoreapp1.1\ClassLibrary.dll
+C:\Users\Mario Fernandes\Documents\Visual Studio 2017\Projects\BoldNetCore\ClassLibrary\obj\Debug\netcoreapp1.1\ClassLibrary.pdb
